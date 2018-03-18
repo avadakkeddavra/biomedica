@@ -1,0 +1,7 @@
+.wysihtml5-editor{
+    padding: 10px;
+    width: 100%;
+    display: block;
+    overflow: hidden !important;
+    overflow-y: scroll;
+}
